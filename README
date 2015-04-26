@@ -1,0 +1,25 @@
+This dataset is a summary of the dataset from the Human Acitivity Recognition Using Smarphones Dataset.
+
+This summary was completed in accordance with the guidelines for the Coursera course, "Getting and Cleaning Data"
+
+The original dataset was created by: 
+
+Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
+Smartlab - Non Linear Complex Systems Laboratory
+DITEN - Università degli Studi di Genova.
+Via Opera Pia 11A, I-16145, Genoa, Italy.
+activityrecognition@smartlab.ws
+www.smartlab.ws
+
+The dataset can be downloaded at: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. 
+
+The project assignment included the following instructions: 
+
+    Merges the training and the test sets to create one data set.
+    Extracts only the measurements on the mean and standard deviation for each measurement. 
+    Uses descriptive activity names to name the activities in the data set
+    Appropriately labels the data set with descriptive variable names. 
+    From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+
+This dataset contains the activity, the subject identifier and the mean of each selected variable. 
